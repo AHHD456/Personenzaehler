@@ -1,2 +1,2 @@
-# turned-Characters-Grove-RGB
-umgedrehte Zeichen für  Grove RGB_LCD_Display als VAriablen
+# Personenzähler mit Arduino Ultraschallsensor
+Personenzahl auf LCD-Display mit Ultraschallsensor
